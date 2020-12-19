@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText" type="id" />
+    <item name="action_save" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnRead" type="id" />
+    <item name="btnClear" type="id" />
+    <item name="etName" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="save_text" type="id" />
+    <item name="open_text" type="id" />
+</resources>
